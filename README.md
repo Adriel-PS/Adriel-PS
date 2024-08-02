@@ -3,7 +3,7 @@
 # Hello guys! Welcome to my Github profile. 🤘
 ## My name is Adriel and my nickname is Adriel-PS 😁
 
-I am currently a quality analyst and junior tester, Focusing on automated testing. 👾
+I am currently a quality analyst and ester junior, Focusing on automated testing. 👾
 I accept criticism and help.
 
 And some technologies that I am using or studying.🔥
