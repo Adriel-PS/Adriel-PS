@@ -1,26 +1,16 @@
+# Hey! Adriel here. 🚀
 
+**QA Analyst | Software Developer | Automation Enthusiast**
 
-# Hello guys! Welcome to my Github profile. 🤘
-## My name is Adriel and my nickname is Adriel-PS 😁
+Welcome to my digital workspace! I specialize in bridging the gap between development and quality assurance. My work is heavily focused on **Test Automation**, creating clear **Documentation**, and driving **Standardization** across team workflows to ensure reliable, bug-free software delivery right from the Definition of Ready.
 
-I am currently a quality analyst and tester, Focusing on automated testing. 👾
-I accept criticism and help.
+* 🎯 **Current Focus:** End-to-End Automated Testing, API Validation, & Process Standardization
+* 🌱 **Learning & Evolving:** Building robust testing architectures and exploring backend development solutions
+* 🤝 **Collaboration:** Always open to discussing test strategies, code reviews, and tech community chats
 
-And some technologies that I am using or studying.🔥
+### 🔥 Tech Stack & Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
-
-
-
-
-          
-                
-          
-          
-          
-          
-          
-          
-          
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Cypress](https://img.shields.io/badge/-cypress-%2317202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
